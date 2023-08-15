@@ -1,0 +1,97 @@
+{
+    "Market_Square": {
+        "description": "You are at the village market square. You see a map that guides you and follow it in a sequential order. Stay alert, there's danger ahead!",
+        "interactions": {
+            "1": {
+                "character": "Spirit",
+                "dialogue": "Welcome, Koko! Where would you like to search?",
+                "options": {
+                    "1": "Palace",
+                    "2": "Forest",
+                    "3": "Desert",
+                    "4": "Mountain",
+                    "5": "Lake",
+                    "6": "Quit",
+                }
+            },
+        }
+    },
+    "Palace": {
+        "description": "You have reached the palace",
+        "interactions": {
+            "1": {
+                "character": "Spirit",
+                "dialogue": "Welcome, Koko! Where would you like to search?",
+                "options": {
+                    "1": "Kitchen(sandwiches)",
+                    "2": "Kings bedroom",
+                    "3": "Basement",
+                    "4": "Leave",
+                }
+            },
+        }
+    },
+    "Forest": {
+        "description": "You have arrived in the forest",
+        "interactions": {
+            "1": {
+                "character": "Spirit",
+                "dialogue": "Welcome to the forest! Beware of snakes, spiders, and creatures that love sandwiches!",
+                "options": {
+                    "1": "Pond",
+                    "2": "Cave",
+                    "3": "Bushes",
+                    "4": "Apple trees(apples)",
+                    "5": "Herbs",
+                    "6": "Leave",
+                }
+            },
+        }
+      },
+    "Desert": {
+        "description": "You are in the desert",
+        "interactions": {
+            "1": {
+                "character": "Spirit",
+                "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+                "options": {
+                    "1": "Tunnels",
+                    "2": "River bank",
+                    "3": "Under a big rock",
+                    "4": "Leave",
+                }
+            },
+        }
+    },
+    "Mountain": {
+        "description": "You are on the mountain",
+        "interactions": {
+            "1": {
+                "character": "Spirit",
+                "dialogue": "Greetings, Koko. Beware of spiders! If you search well, you'll find hidden money to access the chalet.",
+                "options": {
+                    "1": "Cave",
+                    "2": "Mine site",
+                    "3": "Chalet",
+                    "4": "Leave",
+                }
+            }
+        }
+    },
+    "Lake": {
+        "description": "You have entered a dark and mysterious cave.",
+        "interactions": {
+            "1": {
+                "character": "Spirit",
+                "dialogue": "Welcome, Koko. I hold the secrets of this village. You are closer to the treasure but beware of snakes!", 
+                "options": {
+                    "1": "A sunk ship",
+                    "2": "Underwater cave",
+                    "3": "Mamlambo Creature",
+                    "4": "Leave",
+                }
+            },
+   
+        }
+    }
+}
