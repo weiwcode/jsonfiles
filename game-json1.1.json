@@ -107,5 +107,230 @@
         }
       }
     }
+  },
+  "room6": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room7": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room8": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room9": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room10": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room11": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room12": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room13": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room14": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room15": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room16": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room17": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room18": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room19": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
+  },
+  "room20": {
+    "description": "You are in the desert",
+    "interactions": {
+      "1": {
+        "character": "Spirit",
+        "dialogue": "Welcome, Koko. If you help me find the Ekomo treasure, I'll reward you handsomely.",
+        "options": {
+          "1": "Tunnels",
+          "2": "River bank",
+          "3": "Under a big rock",
+          "4": "Leave"
+        }
+      }
+    }
   }
 }
